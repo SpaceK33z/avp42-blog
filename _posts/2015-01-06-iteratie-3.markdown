@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Iteratie 3"
+date:   2015-01-06 09:30:00
+categories: v3
+---
+
+Ik heb in deze iteratie een werkend prototype gemaakt. Deze is __[hier](https://webduck.nl/playground/microwave/#/home)__ te vinden. 
+
+Hiervoor heb ik gebruik gemaakt van [Ionic Framework](http://ionicframework.com/), een Javascript Framework. Alles is verder met de hand geschreven in html, css en Javascript.
+
+Ik heb aan de hand van feedback uit iteratie 2 enkele verbeteringen doorgevoerd:
+
+- Buttons verduidelijkt; er zitten nu randen om buttons zodat deze beter te herkennen zijn.
+- In lijsten ook randen toegevoegd om voor snellere herkenning te zorgen.
+- Om duidelijker te maken dat de ‘last used functions’ te swipen zijn, heb ik een bewegend effect toegevoegd over de tekst (ook te vinden in iOS).
+- Bij de ‘last used functions’ staat nu hoelang geleden je de functie hebt gebruikt (bijv. `20 min ago`).
+
+Verder zijn er ook soundeffects toegevoegd.
+
+![De app]({{ site.url }}/assets/article_images/2015-01-06-iteratie-3/app.png)

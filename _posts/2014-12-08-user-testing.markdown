@@ -2,7 +2,7 @@
 layout: post
 title:  "User testing"
 date:   2014-12-08 09:30:00
-categories: v1
+categories: v2
 image: /assets/article_images/2014-12-08-user-testing/caatje.jpg
 ---
 

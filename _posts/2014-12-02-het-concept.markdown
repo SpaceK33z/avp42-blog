@@ -29,7 +29,3 @@ Zodra de magnetron detecteert dat er iets in zit, blurt de camera achtergrond. E
     - 160w
 - Last used function
     - (klein gedrukt de settings van de laatste optie)
-
-
-# Prototypes
-![Basic prototypes]({{ site.url }}/assets/article_images/2014-12-02-het-concept/prototypes.png)

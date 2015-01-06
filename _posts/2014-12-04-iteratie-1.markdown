@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Iteratie 1"
+date:   2014-12-04 11:35:00
+categories: v1
+---
+
+In deze iteratie ben ik bezig geweest met het maken van een digitale schets. Achteraf gezien was het slimmer om te beginnen met paper prototyping, maar helaas was ik brutaal.
+
+![Basic prototypes]({{ site.url }}/assets/article_images/2014-12-02-het-concept/prototypes.png)
+
+Uit feedback bleek het volgende:
+- Met name de ‘Defrost’ en ‘Heat’ knoppen lijken niet aanklikbaar.
+- Het ontwerp is te minimalistisch.
