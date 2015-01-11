@@ -10,5 +10,8 @@ In deze iteratie ben ik bezig geweest met het maken van een digitale schets. Ach
 ![Basic prototypes]({{ site.url }}/assets/article_images/2014-12-02-het-concept/prototypes.png)
 
 Uit feedback bleek het volgende:
+
 - Met name de ‘Defrost’ en ‘Heat’ knoppen lijken niet aanklikbaar.
 - Het ontwerp is te minimalistisch.
+
+Het eerste punt is een wat domme denkfout van mij, door het dik en groot maken van de tekst had ik gedacht dat dit al duidelijk was.
