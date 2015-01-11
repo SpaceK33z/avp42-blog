@@ -7,4 +7,10 @@ categories: v2
 
 In deze iteratie heb ik een paper prototype gemaakt en deze getest (zie daarvoor mijn vorige post). Dit zijn de paper prototypes:
 
-TODO: prototype afbeeldingen
+![Het startscherm]({{ site.url }}/assets/article_images/2014-12-14-iteratie-2/paper-1.jpg)
+
+![Selecteer het type voedsel dat je wilt opwarmen]({{ site.url }}/assets/article_images/2014-12-14-iteratie-2/paper-2.jpg)
+
+![Kies de tijd]({{ site.url }}/assets/article_images/2014-12-14-iteratie-2/paper-3.jpg)
+
+![Klaar! Meteen teruggaan of toch nog even laten ontdooien?]({{ site.url }}/assets/article_images/2014-12-14-iteratie-2/paper-4.jpg)
