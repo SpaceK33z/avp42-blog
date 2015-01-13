@@ -29,3 +29,6 @@ Zodra de magnetron detecteert dat er iets in zit, blurt de camera achtergrond. E
     - 160w
 - Last used function
     - (klein gedrukt de settings van de laatste optie)
+
+# De doelgroep
+Met deze app wil ik mensen targeten die zoveel mogelijk willen digitaliseren. Dit zijn met name de twintigers en dertigers, voornamelijk man. Deze mensen willen alles met hun smartphone kunnen en prefereren een app boven een fysieke interface.
