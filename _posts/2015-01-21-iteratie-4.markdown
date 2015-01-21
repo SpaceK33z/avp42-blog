@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Iteratie 4"
+date:   2015-01-21 11:00:00
+categories: v4
+---
+
+Uit feedback van John bleek dat ik nog een iteratie grafisch design moest doen.
+
+Mijn app heeft expres heel erg weinig grafische elementen, en ik wil dit wel zo houden. Deze app draait namelijk rond de snelheid van het gebruik ervan, geen poespas. Ik ben het er wel mee eens dat het niet erg mooi is, maar met de structuur ben ik wel tevreden. Daarom heb ik erg veel kleine veranderingen doorgevoerd die het allemaal net wat mooier maken.
+
+Ten eerste heb ik de timer verbeterd; deze laat nu de tijd in een LCD font zien. Dit wordt een stuk sneller met de tijd geassocieerd.
+
+Uit meerdere korte tests die ik heb gedaan bleek ook dat het niet duidelijk was wat de achtergrond precies voor functie had. Dit moet een livestream van de magnetron voorstellen, maar dit is dus niet direct herkenbaar als zodanig. Om dit op te lossen staat er nu `• LIVE` onderaan het beeld. Dit wordt ook bij veel camera's gebruikt.
+
+Verder heb ik meer nagedacht over de achtergrondfoto. Ik heb nieuwe foto's hiervoor gemaakt en deze past zich nu ook aan de situatie aan. Standaard zie je een lege magnetron, maar als je nu iets gaat ontdooien */ whatever*, krijg je ook een bijbehorende foto te zien.
+
+Na een keuze te hebben gemaakt in het `Defrost` of `Heat` menu, wordt de linkerhelft nu geblurt. Als je hier iets wilt aanpassen zul je er nog een keer op moeten klikken. Op deze manier is het duidelijker dat je goed hebt geklikt, en je nu aan de rechterkant moet kijken.
+
+Als laatste kun je nu de app meteen zien zoals het hoort: ['in' een iPhone](https://webduck.nl/playground/microwave/demo.html).
