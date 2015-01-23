@@ -10,7 +10,7 @@ categories: v1
 60% – Interaction Design  
 25% – Graphic Design  
 
-Mijn interesse zit 'm vooral in interaction design. Ik ben heel benieuwd hoe ik dit zo gebruiksvriendelijk mogelijk kan maken.
+Ik wil vooral veel aandacht stoppen in het interaction design omdat ik het een uitdaging vind om een applicatie zo gebruiksvriendelijk mogelijk te maken. Ik ben er nu op mijn werk wat mee bezig, maar wil er heel graag meer over leren (vooral meer praktijkervaring). Met stage ga ik hier ook meer mee doen.
 
 # Het idee
 Het achtergrondscherm bestaat uit een livestream uit de heatmeter camera in de magnetron. Hiermee kun je snel zien wat warm is en wat niet, zodat als bijvoorbeeld alleen de binnenkant warm wordt je op tijd het voedsel kunt draaien. Dit is te zien op de achtergrond, en staat daardoor niet in de weg van de echte functies van de magnetron.
