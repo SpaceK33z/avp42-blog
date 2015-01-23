@@ -7,14 +7,20 @@ categories: v4
 
 Uit feedback van John bleek dat ik nog een iteratie grafisch design moest doen.
 
-Mijn app heeft expres heel erg weinig grafische elementen, en ik wil dit wel zo houden. Deze app draait namelijk rond de snelheid van het gebruik ervan, geen poespas. Ik ben het er wel mee eens dat het niet erg mooi is, maar met de structuur ben ik wel tevreden. Daarom heb ik erg veel kleine veranderingen doorgevoerd die het allemaal net wat mooier maken.
+Mijn app heeft expres heel erg weinig grafische elementen, en ik wil dit wel zo houden. Deze app draait namelijk rond de snelheid van het gebruik ervan, geen poespas. Ik ben het er wel mee eens dat het niet erg mooi is, maar met de structuur ben ik wel tevreden.
 
-Ten eerste heb ik de timer verbeterd; deze laat nu de tijd in een LCD font zien. Dit wordt een stuk sneller met de tijd geassocieerd.
+Ten eerste heb ik de timer verbeterd; deze laat nu de tijd in een LCD font zien en is een stuk groter. Dit wordt een stuk sneller met de tijd geassocieerd.
 
-Uit meerdere korte tests die ik heb gedaan bleek ook dat het niet duidelijk was wat de achtergrond precies voor functie had. Dit moet een livestream van de magnetron voorstellen, maar dit is dus niet direct herkenbaar als zodanig. Om dit op te lossen staat er nu `• LIVE` onderaan het beeld. Dit wordt ook bij veel camera's gebruikt.
+Uit verdere usertests die ik heb gedaan blijkt ook dat de swipe-functionaliteit bij de `Last used functions` nog steeds niet duidelijk is bij iedereen. Ik heb deze daarom verwijderd en vervangen door een gewone click. De redenatie achter de swipe was dat het een extra 'beveiligingsmaatregel' was, zodat je niet per ongeluk de magnetron kon aanzetten. Dat is echter niet meer nodig, omdat er nu een tussenstap inzit - je moet eerst klikken op `Ready` voordat de magnetron begint.
+
+Uit de usertests bleek ook dat het niet duidelijk was wat de achtergrond precies voor functie had. Dit moet een livestream van de magnetron voorstellen, maar dit is dus niet direct herkenbaar als zodanig. Om dit op te lossen staat er nu `• LIVE` onderaan het beeld. Dit wordt ook bij veel videocamera's gebruikt.
+
+Ook bleek dat de buttons niet altijd goed te lezen waren vanwege de achtergrondfoto. Ik heb daarom de buttons niet meer volledig transparant gemaakt.
 
 Verder heb ik meer nagedacht over de achtergrondfoto. Ik heb nieuwe foto's hiervoor gemaakt en deze past zich nu ook aan de situatie aan. Standaard zie je een lege magnetron, maar als je nu iets gaat ontdooien */ whatever*, krijg je ook een bijbehorende foto te zien.
 
 Na een keuze te hebben gemaakt in het `Defrost` of `Heat` menu, wordt de linkerhelft nu geblurt. Als je hier iets wilt aanpassen zul je er nog een keer op moeten klikken. Op deze manier is het duidelijker dat je goed hebt geklikt, en je nu aan de rechterkant moet kijken.
+
+Ook heb ik een aantal subtiele veranderingen in de layout doorgevoerd.
 
 Als laatste kun je nu de app meteen zien zoals het hoort: ['in' een iPhone](https://webduck.nl/playground/microwave/demo.html).
